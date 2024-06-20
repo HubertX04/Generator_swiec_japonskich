@@ -1,0 +1,75 @@
+[ Thu Jan 11 22:27:50 2024
+ ] -> Uruchomiono program
+
+[ Thu Jan 11 22:27:50 2024
+ ] -> Uruchomiono menu
+
+[ Thu Jan 11 22:28:13 2024
+ ] -> Uruchomiono zaawansowany program
+
+[ Thu Jan 11 22:28:13 2024
+ ] -> Oczekiwanie na podanie nazwy pliku wejsciowego
+
+[ Thu Jan 11 22:28:17 2024
+ ] -> intc_us_data.csv
+
+[ Thu Jan 11 22:28:17 2024
+ ] -> Znaleziono podany plik wejściowy
+
+[ Thu Jan 11 22:28:17 2024
+ ] -> Oczekiwanie na podanie nazwy pliku wyjściowego
+
+[ Thu Jan 11 22:28:19 2024
+ ] -> wynik.txt
+
+[ Thu Jan 11 22:28:22 2024
+ ] -> Podano wysokość wykresu
+
+[ Thu Jan 11 22:28:30 2024
+ ] -> Podano szerokość wykresu
+
+[ Thu Jan 11 22:28:36 2024
+ ] -> Wczytano przedział datowy
+
+[ Thu Jan 11 22:28:36 2024
+ ] -> Podane daty są prawidłowe
+
+[ Thu Jan 11 22:28:36 2024
+ ] -> Wczytano dane z pliku wejsciowego
+
+[ Thu Jan 11 22:28:36 2024
+ ] -> Łączenie słupków
+
+[ Thu Jan 11 22:28:36 2024
+ ] -> Wygenerowano  świece
+
+[ Thu Jan 11 22:28:37 2024
+ ] -> Wypisano w konsoli kawałek wykresu, a pełen wykres wygenerowano w pliku wyjściowym
+
+[ Thu Jan 11 22:28:37 2024
+ ] -> Zakończono dany podprogram
+
+[ Thu Jan 11 22:28:45 2024
+ ] -> Uruchomiono menu
+
+[ Thu Jan 11 22:28:48 2024
+ ] -> Uruchomiono podstawowy program
+
+[ Thu Jan 11 22:28:48 2024
+ ] -> Poprawnie wczytano plik intc_us_data.csv
+
+[ Thu Jan 11 22:28:48 2024
+ ] -> Wczytano ilość linii
+
+[ Thu Jan 11 22:28:48 2024
+ ] -> Wczytano dane z pliku wejsciowego
+
+[ Thu Jan 11 22:28:48 2024
+ ] -> Wygenerowano świece
+
+[ Thu Jan 11 22:28:48 2024
+ ] -> Wypisano w konsoli kawałek wykresu, a pełen wykres wygenerowano w pliku chart.txt
+
+[ Thu Jan 11 22:28:48 2024
+ ] -> Zakończono dany podprogram
+

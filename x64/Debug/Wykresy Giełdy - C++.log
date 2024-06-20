@@ -1,0 +1,7 @@
+﻿  Wykresy Giełdy - C++.cpp
+C:\Users\huber\Desktop\Wykresy Giełdy - C++\Wykresy Giełdy - C++.cpp(57,19): warning C4244: "=": konwersja z "double" do "__int64", możliwa utrata danych
+C:\Users\huber\Desktop\Wykresy Giełdy - C++\Wykresy Giełdy - C++.cpp(61,19): warning C4244: "=": konwersja z "double" do "__int64", możliwa utrata danych
+C:\Users\huber\Desktop\Wykresy Giełdy - C++\Wykresy Giełdy - C++.cpp(65,19): warning C4244: "=": konwersja z "double" do "__int64", możliwa utrata danych
+C:\Users\huber\Desktop\Wykresy Giełdy - C++\Wykresy Giełdy - C++.cpp(69,19): warning C4244: "=": konwersja z "double" do "__int64", możliwa utrata danych
+C:\Users\huber\Desktop\Wykresy Giełdy - C++\Wykresy Giełdy - C++.cpp(376,28): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  Wykresy Giełdy - C++.vcxproj -> C:\Users\huber\Desktop\Wykresy Giełdy - C++\x64\Debug\Wykresy Giełdy - C++.exe
